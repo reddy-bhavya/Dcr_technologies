@@ -642,3 +642,134 @@ margin-top: 15px;
 
 height: 306px;
 }
+
+/* About Page Styles */
+.about-section {
+    padding: 50px;
+    font-family: 'Calibri', sans-serif;
+    background-color: #f3f7fc;
+}
+
+.about-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-header h1 {
+    font-size: 48px;
+    color: #344e4e;
+    font-weight: bold;
+}
+
+.about-header p {
+    font-size: 20px;
+    color: #555;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 18px;
+    line-height: 1.8;
+    color: #333;
+    text-align: justify;
+}
+
+.about-content p {
+    margin-bottom: 20px;
+}
+
+/* Contact Page Styles */
+.contact-section {
+    padding: 50px;
+    font-family: 'Calibri', sans-serif;
+    background-color: #f3f7fc;
+}
+
+.contact-header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.contact-header h1 {
+    font-size: 48px;
+    color: #344e4e;
+    font-weight: bold;
+}
+
+.contact-header p {
+    font-size: 20px;
+    color: #555;
+    line-height: 1.6;
+    margin-top: 10px;
+}
+
+.contact-details {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+}
+
+.detail {
+    text-align: center;
+}
+
+.detail i {
+    font-size: 40px;
+    color: #e92828;
+    margin-bottom: 10px;
+}
+
+.detail h2 {
+    font-size: 20px;
+    color: #344e4e;
+    font-weight: bold;
+}
+
+.detail p {
+    font-size: 16px;
+    color: #555;
+    margin-top: 5px;
+}
+
+.contact-form {
+    text-align: center;
+}
+
+.contact-form h2 {
+    font-size: 24px;
+    color: #344e4e;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.contact-form form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.contact-form button {
+    background-color: #e92828;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #c51e1e;
+}
