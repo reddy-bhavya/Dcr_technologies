@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="62px" height="62px" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Clock</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Clock" transform="translate(1.000000, 1.000000)">
+            <path d="M40.824,37.68 L30.824,33.328 L30.824,16.928 C30.824,16.2652583 30.2867417,15.728 29.624,15.728 L29.5,15.728 C28.8372583,15.728 28.3,16.2652583 28.3,16.928 L28.3,34.212 C28.3057763,34.77145 28.6973932,35.2526741 29.244,35.372 L39.828,39.964 C40.4587092,40.2390378 41.1929622,39.9507092 41.468,39.32 C41.7430378,38.6892908 41.4547092,37.9550378 40.824,37.68 L40.824,37.68 Z" id="Path" stroke="#FFFFFF" stroke-width="1.2" fill-rule="nonzero"></path>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="28.44" y="0.12" width="1.924" height="5" rx="0.472"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="28.156" y="54.516" width="1.924" height="5" rx="0.472"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(57.334000, 30.140000) rotate(90.000000) translate(-57.334000, -30.140000) " x="56.372" y="27.64" width="1.924" height="5" rx="0.472"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" transform="translate(3.154000, 30.140000) rotate(90.000000) translate(-3.154000, -30.140000) " x="2.192" y="27.64" width="1.924" height="5" rx="0.472"></rect>
+            <circle id="Oval" stroke="#FFFFFF" stroke-width="1.5" stroke-linecap="round" cx="30.208" cy="30.208" r="29.608"></circle>
+        </g>
+    </g>
+</svg>
