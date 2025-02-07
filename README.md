@@ -4,7 +4,7 @@ DCR Technologies is simple webiste, showcasing the company's services, about pag
 
 ## Live Website
 
-You can access the live version of the website here: https://reddy-bhavya.github.io/Dcr_technologies/
+You can access the live version of the website here: https://dcrtechnologies.netlify.app/
 
 ## Features
 
